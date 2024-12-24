@@ -1,0 +1,17 @@
+[
+    {
+        "name": "\u30ca\u30dd\u30ea\u30bf\u30f3",
+        "price": 600,
+        "calorie": 750
+    },
+    {
+        "name": "\u30da\u30da\u30ed\u30f3\u30c1\u30fc\u30ce",
+        "price": 700,
+        "calorie": 600
+    },
+    {
+        "name": "\u30ab\u30eb\u30dc\u30ca\u30fc\u30e9",
+        "price": 1000,
+        "calorie": 800
+    }
+]
